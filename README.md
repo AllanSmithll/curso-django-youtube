@@ -1,5 +1,5 @@
 # Curso de Django com Python 3
-Código das aulas que vi durante o curso de Python, do Professor Jefferson Lobato, no Youtube, em 2023.
+Código das aulas que vi durante o curso de Django com Python3, do Professor Jefferson Lobato, no Youtube, em 2023.
 
 O Django é um framework web full stack open source (código aberto) baseado em Python, gratuito e de alto nível. Este framework foi criado com o objetivo de resolver todos os problemas mais comuns do processo de desenvolvimento de aplicações web, como por exemplo autenticação, rotas, object relational mapper (ORM) e até migrations.
 
